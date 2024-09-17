@@ -1,0 +1,20 @@
+1. In ra dòng chữ “Hello, World”
+- Mục tiêu: Làm quen với cú pháp cơ bản trong Java.
+- Yêu cầu: Viết chương trình in ra dòng chữ Hello, World
+
+2. Tính tổng 2 số
+- Mục tiêu: Làm quen với toán tử và cách nhập xuất dữ liệu trong Java.
+- Yêu cầu: Viết chương trình nhập vào hai số nguyên từ bàn phím và tính tổng của chúng
+- Gợi ý: Sử dụng thư viện java.util.Scanner để nhập dữ liệu từ bàn phím
+
+3. Kiểm tra số chẵn hay lẻ
+- Mục tiêu: Sử dụng toán tử điều kiện (if-else).
+- Yêu cầu: Viết chương trình kiểm tra một số nguyên nhập vào có phải là số chẵn hay lẻ
+
+4. Tính diện tích và chu vi hình chữ nhật
+- Mục tiêu: Làm quen với các toán tử toán học cơ bản.
+- Yêu cầu: Viết chương trình tính diện tích và chu vi của hình chữ nhật với chiều dài và chiều rộng nhập từ bàn phím.
+
+5. Tính tổng các số từ 1 đến n
+- Mục tiêu: Sử dụng vòng lặp for.
+- Yêu cầu: Viết chương trình tính tổng các số nguyên từ 1 đến n, với n là số nguyên dương nhập từ bàn phím
