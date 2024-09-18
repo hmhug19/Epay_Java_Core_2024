@@ -1,0 +1,34 @@
+1. Kiểm tra số chẵn, lẻ
+- Mục tiêu: Làm quen với hàm
+- Yêu cầu:
+    . Tạo một hàm có tên isEven nhận vào một số nguyên. Hàm trả về true nếu số đó là số chẵn, ngược lại trả về false
+    . In ra màn hình kết quả
+
+2. Tìm số lớn nhất trong ba số
+- Mục tiêu: Toán tử so sánh
+- Yêu cầu:
+    . Tạo một hàm có tên findMax nhận vào ba số nguyên.
+    . Hàm trả về số lớn nhất trong ba số
+
+3. Xác định ngày trong tuần bằng switch case
+- Mục tiêu: Luyện tập Switch-case
+- Yêu cầu:
+    . Nhận vào một số nguyên từ 1 đến 7 và trả về ngày tương ứng trong tuần.
+    . Sử dụng switch case để xác định tên của ngày trong tuần dựa trên số nhập vào
+
+4. Xếp loại học sinh dựa trên điểm số
+- Mục tiêu: Luyện tập If-Else
+- Yêu cầu: Viết một chương trình để xếp loại học sinh dựa trên điểm trung bình (0 - 100) sử dụng if else lồng nhau:
+    Điểm >= 85: Xếp loại A.
+    Điểm >= 70 và < 85: Xếp loại B.
+    Điểm >= 50 và < 70: Xếp loại C.
+    Điểm < 50: Xếp loại D
+
+5. In tam giác số
+- Mục tiêu: Luyện tập for
+- Yêu cầu: Viết chương trình in ra hình tam giác số có N dòng, với N là số nguyên dương do người dùng nhập vào. Ví dụ với N = 5
+    1
+    12
+    123
+    1234
+    12345

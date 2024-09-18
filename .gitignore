@@ -2,6 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea
+Epay_Java_Core_2024.iml
 
 ### Eclipse ###
 .apt_generated

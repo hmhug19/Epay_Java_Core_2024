@@ -1,0 +1,32 @@
+1. Tạo và in các phần tử trong mảng
+- Mục đích: Làm quen với mảng trong Java
+- Yêu cầu:
+    . Tạo mảng gồm n số nguyên dương nhập từ bàn phìm, nhập số phần tử của mảng và nhập giá trị từng phần tử
+    . In mảng ra màn hình
+    (Sử dụng: java.util.Scanner để nhập từ bàn phím)
+
+2. Tính tổng các phần tử trong mảng
+- Mục đích: Thao tác với mảng
+- Yêu cầu:
+    . Tạo mảng gồm n số nguyên dương nhập từ bàn phím, nhập số phần tử của mảng, nhập từng phần tử
+    . Tính tổng các phần tử in ra màn hình
+
+3. Tìm phần tử lớn nhất trong mảng
+- Mục đích: Thao tác với mảng
+- Yêu cầu:
+    . Tạo mảng gồm n số nguyên dương nhập từ bàn phím, nhập số phần tử của mảng, nhập từng phần tử
+    . Tìm phần tử lớn nhất trong mảng và in ra màn hình
+
+4. Đếm số lần xuất hiện của phần tử trong mảng
+   - Mục đích: Thao tác với mảng
+   - Yêu cầu:
+       . Tạo mảng gồm n số nguyên dương nhập từ bàn phím, nhập số phần tử của mảng, nhập từng phần tử
+       . Nhập giá trị cần đếm
+       . In ra màn hình phần tử đó xuất hiện bao nhiêu lần
+
+5. Sắp xếp các giá trị trong mảng theo thứ tự tăng dần
+    - Mục đích: Thao tác với mảng
+    - Yêu cầu: Sử dụng thuật toán Sắp xếp nổi bọt (Bubble Sort) để sắp xếp
+        . Tạo mảng gồm n số nguyên dương nhập từ bàn phím, nhập số phần tử của mảng, nhập từng phần tử
+        . Sắp xếp các giá trị trong mảng
+        . In ra màn hình phần tử trong mảng đã được sắp xếp
