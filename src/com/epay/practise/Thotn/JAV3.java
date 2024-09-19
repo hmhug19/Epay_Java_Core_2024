@@ -1,4 +1,4 @@
-package com.epay.practise.Bai3.Thotn;
+package com.epay.practise.Thotn;
 
 import java.util.Arrays;
 import java.util.Scanner;

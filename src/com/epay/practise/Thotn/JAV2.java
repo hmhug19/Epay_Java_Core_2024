@@ -1,4 +1,4 @@
-package com.epay.practise.Bai2.Thotn;
+package com.epay.practise.Thotn;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
