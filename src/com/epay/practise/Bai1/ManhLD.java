@@ -15,7 +15,7 @@ public class ManhLD {
         run.Bai_4();
         System.out.println("------Bài 5------");
         run.Bai_5();
-        System.out.println("\nThân ái và chào tạm biệt!");
+        System.out.println("\nThân ái và chào tạm biệt!!!");
     }
 
     public void Bai_1() {
