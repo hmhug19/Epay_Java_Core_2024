@@ -3,6 +3,10 @@ package TriBHM;
 import java.util.Scanner;
 
 public class Java3 {
+
+    // hunghm1: Logic đảm bảo, có comment dễ hiểu, tên hàm đặt theo mục đích của hàm -> oke
+    // Có thể cấu trúc thành các hàm và thực hiện gọi các hàm trong hàm main để code dễ đọc hơn
+    // refer Bai3 - HoaDTK
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

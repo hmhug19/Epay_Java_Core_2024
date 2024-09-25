@@ -3,6 +3,8 @@ package TriBHM;
 import java.util.Scanner;
 
 public class Java2 {
+
+    // hunghm1: Nên đưa các chức năng (bài tập) xử lý các nghiệp vụ khác nhau thành các function riêng biệt, sau đó thực hiện gọi ở main
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -88,6 +90,11 @@ public class Java2 {
         }
     }
 
+    /**
+     * hunghm1: Tối ưu điều kiện logic so sánh: case 1 đã check điều kiện >= 85 nên nếu điều kiện thoả mãn case else thì score đã < 85 rồi -> điều kiện trên ko sai nhưng thừa
+     * tương tự với điều kiê score < 70
+     * refer bài cua: HoaDTK là đủ điều kiện
+     */
     // 4. Hàm xếp loại học sinh dựa trên điểm số
     public static String getGrade(int score) {
         if (score >= 85) {

@@ -1,3 +1,4 @@
+// hunghm1: đường dẫn package -> tuân thủ theo đường dẫn thư mục dự án: com.epay.practise.TriBHM
 package TriBHM;
 
 import java.util.Scanner;
@@ -53,6 +54,11 @@ public class Java1 {
         }
     }
 
+
+    /**
+     * hunghm1: Xử lý và logic oke, trong thực tế các func liên quan đến tính toán và xử lý logic nếu muốn tái sử dụng có thể tách riêng thành các func riêng
+     * refer Exercise1 - huyenltk
+     */
     // 4. Tính diện tích và chu vi hình chữ nhật
     public static void rectangleAreaPerimeter(Scanner scanner) {
         System.out.print("4. Nhập chiều dài: ");
@@ -68,6 +74,10 @@ public class Java1 {
         System.out.println("Chu vi hình chữ nhật là: " + perimeter);
     }
 
+    /**
+     * Logic đảm bảo, trong thực tế có thể bổ sung các comment đến logic để đảm bảo code được clear, dễ maintiain sau này hơn, refer Java1-Thotn
+     * Trong java có thể thực hiện comment theo dòng hoặc theo block
+     */
     // 5. Tính tổng các số từ 1 đến n
     public static void sumFromOneToN(Scanner scanner) {
         System.out.print("5. Nhập một số nguyên dương n: ");
