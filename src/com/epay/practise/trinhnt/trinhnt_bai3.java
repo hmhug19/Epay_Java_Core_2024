@@ -22,7 +22,7 @@ public class trinhnt_bai3 {
             System.out.print(arr[i] +" ");
         }
         // tính tổng mảng
-        System.out.println("Tổng là: "+bai3.tínhtong(arr));
+        System.out.println("Tổng là: "+bai3.tinhtong(arr));
         System.out.println("max là: "+bai3.max(arr));
 
          // dem so lan xuat hien cua so
@@ -37,10 +37,10 @@ public class trinhnt_bai3 {
             System.out.println (arr[i] +" ");
         }
     }
-    public int tínhtong (int[] arr)
+    public int tinhtong (int[] arr)
     {
         int tong=0;
-        for (int i=0;i<arr.length-1;i++)
+        for (int i=0;i<arr.length;i++)
         {
             tong +=arr[i];
         }
@@ -50,7 +50,7 @@ public class trinhnt_bai3 {
     public int max (int[] arr)
     {
         int max=0;
-        for (int i=0;i<arr.length-1;i++)
+        for (int i=0;i<arr.length;i++)
         {
            if(arr[i]>max)
                max=arr[i];
@@ -59,7 +59,7 @@ public class trinhnt_bai3 {
     }
     public int dem (int[] arr,int socandem)
     { int dem=0;
-        for (int i=0;i<arr.length-1;i++)
+        for (int i=0;i<arr.length;i++)
         {
             if (arr[i]==socandem) {
                 dem += 1;
