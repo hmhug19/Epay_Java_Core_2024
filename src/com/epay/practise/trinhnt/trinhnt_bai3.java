@@ -21,7 +21,6 @@ public class trinhnt_bai3 {
         {
             System.out.print(arr[i] +" ");
         }
-
         // tính tổng mảng
         System.out.println("Tổng là: "+bai3.tínhtong(arr));
         System.out.println("max là: "+bai3.max(arr));
